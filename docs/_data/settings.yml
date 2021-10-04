@@ -3,6 +3,5 @@ menu:
 - {name: 'cv', url: '/cv'}
 
 social:
-- {email: 'Z.Jia-9@sms.ed.ac.uk '}
 - {icon: 'github', link: 'https://github.com/chotong'}
 
