@@ -3,6 +3,11 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+My name is Zhaotong Jia (贾朝彤 in Chinese), I am an undergraduate studying Cognitive Science at The University of Edinburgh. My research interests are made up of the following topics:
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+- Philosophy of Language, formal semantics
+- Language acquisition
+- Formal syntax
+- Computational modelling and natual language processing
+
+My research aims to model the human mind's language comprehension mechanisms; proposing a better syntactic-semantic interface and designing syntax/semantic parsers to support a range of deeper natural language understanding task.
