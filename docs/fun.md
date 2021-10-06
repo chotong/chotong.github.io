@@ -3,7 +3,7 @@ layout: fun
 title: "Fun"
 ---
 
-Apart from academics, I have a deep interest in literature, art and film. If you want to get to know me better, here's a list of some of my tastes.
+Apart from academics, I have a deep interest in literature, art, music, films and other arts. If you want to get to know me better, here's a list of some of my tastes.
 
 #### Literature
 
@@ -30,9 +30,24 @@ What can I hold you with?
    I offer you explanations of yourself, theories about yourself, authentic and surprising news of yourself.  
    I can give you my loneliness, my darkness, the hunger of my heart; I am trying to bribe you with uncertainty, with danger, with defeat.
    
-   #### Arts
+   #### Art
    
-   I am a big fan of Egon Schiele, here is one of my favourites
+   I am a big fan of Egon Schiele, here are some of my favourites.
+   
+  <img src="https://github.com/chotong/chotong.github.io/blob/master/docs/assets/img/Egon_Schiele_044.jpg" width="50%">
+  
+  <img src="https://github.com/chotong/chotong.github.io/blob/master/docs/assets/img/Egon_Schiele_-_Sitzende_Frau_mit_hochgezogenem_Knie_-_1917.jpeg" width="50%">
+  
+  I have systematically read works on modernism art including Baudelaire, T.J. Clark and Clement Greenberg.
+  
+  #### Music
+  
+  
+  
+  
+
+   
+   
    
    
 
