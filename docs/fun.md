@@ -40,13 +40,7 @@ What can I hold you with?
   
   I have systematically read works on modernism art including Baudelaire, T.J. Clark and Clement Greenberg.
   
-  <div class="row g-5 mb-5">
-  <div class="col-md-6">
-  </div>
-  <div class="col-md-6">
-    <img src="assets/img/JIA Zhaotong.jpg" alt="Fun" width="37%">
-  </div>
-</div>
+ 
   
   
  
