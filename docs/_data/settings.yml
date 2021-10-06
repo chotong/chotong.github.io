@@ -1,10 +1,6 @@
 menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
-- {name: 'fun', url: '/fun'}
-
-fun:
-- {name: 'Fun',ucl: 'fun'} 
 
 social:
 - {icon: 'github', link: 'https://github.com/chotong'}
