@@ -1,4 +1,0 @@
----
-layout: fun
-title: "Fun"
----
