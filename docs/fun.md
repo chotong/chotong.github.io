@@ -31,14 +31,14 @@ What can I hold you with?
    I can give you my loneliness, my darkness, the hunger of my heart; I am trying to bribe you with uncertainty, with danger, with defeat.
    
    
-   #### Art
+   ####Art
    
    
    I am a big fan of Egon Schiele, here are some of my favourites.
    
-  <img src="assets/img/Egon_Schiele_044.jpg" width="50%">
+  <img src="assets/img/Egon_Schiele_044.jpg" width="75%">
   
-  <img src="assets/img/Egon_Schiele_-_Sitzende_Frau_mit_hochgezogenem_Knie_-_1917.jpeg" width="50%">
+  <img src="assets/img/Egon_Schiele_-_Sitzende_Frau_mit_hochgezogenem_Knie_-_1917.jpeg" width="75%">
   
   I have systematically read works on modernism art including Baudelaire, T.J. Clark and Clement Greenberg.
   
