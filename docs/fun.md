@@ -5,7 +5,7 @@ title: "Fun"
 
 Apart from academics, I have a deep interest in literature, art, music, films and other arts. If you want to get to know me better, here’s a list of some of my tastes
 
-<h4>Literature</h4>
+#### Literature
 
 - Bolaño, Roberto. *2666*  
 - Quiroga, Horacio. *Stories of Love, Madness and Death*
