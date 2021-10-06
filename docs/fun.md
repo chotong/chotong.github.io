@@ -31,7 +31,7 @@ What can I hold you with?
    I can give you my loneliness, my darkness, the hunger of my heart; I am trying to bribe you with uncertainty, with danger, with defeat.
    
    
-   ####Art
+   ####   Art
    
    
    I am a big fan of Egon Schiele, here are some of my favourites.
