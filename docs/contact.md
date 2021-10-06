@@ -1,5 +1,4 @@
 ---
-layout: contact
-title: "Contact"
+layout: fun
+title: "Fun"
 ---
-Email: Z.Jia-9[at]sms.ed.ac.uk
