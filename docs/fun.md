@@ -36,9 +36,9 @@ What can I hold you with?
    
    I am a big fan of Egon Schiele, here are some of my favourites.
    
-  <img src="https://github.com/chotong/chotong.github.io/blob/master/docs/assets/img/Egon_Schiele_044.jpg" width="50%">
+  <img src="assets/img/Egon_Schiele_044.jpg" width="50%">
   
-  <img src="https://github.com/chotong/chotong.github.io/blob/master/docs/assets/img/Egon_Schiele_-_Sitzende_Frau_mit_hochgezogenem_Knie_-_1917.jpeg" width="50%">
+  <img src="assets/img/Egon_Schiele_-_Sitzende_Frau_mit_hochgezogenem_Knie_-_1917.jpeg" width="50%">
   
   I have systematically read works on modernism art including Baudelaire, T.J. Clark and Clement Greenberg.
   
