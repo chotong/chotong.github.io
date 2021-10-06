@@ -3,7 +3,7 @@ layout: fun
 title: "Fun"
 ---
 
-Apart from academics, I have a deep interest in literature, art, music, films and other arts. If you want to get to know me better, here's a list of some of my tastes.
+
 <html>
 <head>
 <style type="text/css">
@@ -16,6 +16,8 @@ div{margin:0;padding:0}
 <body>
 <div id="container">
 <div class="box1">
+   
+   Apart from academics, I have a deep interest in literature, art, music, films and other arts. If you want to get to know me better, here’s a list of some of my tastes.
    
   <h4>Literature</h4>
 
