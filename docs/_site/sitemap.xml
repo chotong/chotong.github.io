@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2020/01/01/sample-post.html</loc>
+<lastmod>2020-01-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/02/01/class-update.html</loc>
+<lastmod>2020-02-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2020/03/01/new-paper-published.html</loc>
+<lastmod>2020-03-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/cv.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/fun.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/publications.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/google91c68afdb9487fc6.html</loc>
+<lastmod>2021-10-06T22:08:35+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/publications/1501.07274.pdf</loc>
+<lastmod>2021-10-06T22:08:35+01:00</lastmod>
+</url>
+</urlset>
