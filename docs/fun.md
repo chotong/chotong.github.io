@@ -30,9 +30,7 @@ What can I hold you with?
    I offer you explanations of yourself, theories about yourself, authentic and surprising news of yourself.  
    I can give you my loneliness, my darkness, the hunger of my heart; I am trying to bribe you with uncertainty, with danger, with defeat.
    
-   
-   ####   Art
-   
+   <h4>Art</h4>
    
    I am a big fan of Egon Schiele, here are some of my favourites.
    
