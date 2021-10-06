@@ -4,8 +4,20 @@ title: "Fun"
 ---
 
 Apart from academics, I have a deep interest in literature, art, music, films and other arts. If you want to get to know me better, here's a list of some of my tastes.
-
-#### Literature
+<html>
+<head>
+<style type="text/css">
+div{margin:0;padding:0}
+#container{width:800px;height:500px;border:1px solid #ccc;}
+#container .box1{width:380px;height:500px;float: left;}
+#container .box2{margin-left: 40px;width:380px;height:500px;float:left;}
+</style>
+</head>
+<body>
+<div id="container">
+<div class="box1">
+   
+  <h4>Literature</h4>
 
 - Bolaño, Roberto. *2666*  
 - Quiroga, Horacio. *Stories of Love, Madness and Death*
@@ -39,7 +51,12 @@ What can I hold you with?
   <img src="assets/img/Egon_Schiele_-_Sitzende_Frau_mit_hochgezogenem_Knie_-_1917.jpeg" width="75%">
   
   I have systematically read works on modernism art including Baudelaire, T.J. Clark and Clement Greenberg.
-  
+  </div>
+<div class="box2">678</div>
+</div>
+</body>
+</html>
+
  
   
   
