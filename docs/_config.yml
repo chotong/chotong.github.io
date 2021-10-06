@@ -2,4 +2,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Zhaotong Jia" # the name of your site, e.g. ACME Corp.
 description: "There really is no such things as Art. There are only artists-E.H Gombrich"
+plugins: 
+  - jekyll-sitemap
 
