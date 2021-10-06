@@ -18,9 +18,9 @@ Apart from academics, I have a deep interest in literature, art, music, films an
 
 I am a big fan of Egon Schiele. There is a morbid beauty in Schiele's paintings. His ubiquitous expression of instinct and desire even evoking death and fear. Eroticism and violence are the eternal themes of art. For some reason, love is always associated with self-destruction in my eyes.
 
-<img src="assets/img/Egon_Schiele_044.jpg" width="95%">
+<img src="assets/img/Egon_Schiele_044.jpg" width="97%">
   
-<img src="assets/img/Egon_Schiele_-_Sitzende_Frau_mit_hochgezogenem_Knie_-_1917.jpeg" width="95%">
+<img src="assets/img/Egon_Schiele_-_Sitzende_Frau_mit_hochgezogenem_Knie_-_1917.jpeg" width="97%">
   
 I have systematically read works on modernism art including Baudelaire, T.J. Clark and Clement Greenberg.
   
