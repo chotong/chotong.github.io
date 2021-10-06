@@ -43,7 +43,7 @@ What can I hold you with?
   I have systematically read works on modernism art including Baudelaire, T.J. Clark and Clement Greenberg.
   
   
-  #### Music
+ 
   
   
   
