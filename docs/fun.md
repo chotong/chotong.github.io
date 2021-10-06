@@ -6,7 +6,7 @@ title: "Fun"
 Apart from academics, I have a deep interest in literature, art, music, films and other arts. If you want to get to know me better, here’s a list of some of my tastes
 
 #### Literature
-
+<img src="assets/img/EVSLjjSX0AEUmWm.jpg" align="right" width="50%"/>
 - Bolaño, Roberto. *2666*  
 - Quiroga, Horacio. *Stories of Love, Madness and Death*
 - Vargas Llosa, Mario. *The city and the dogs*
@@ -16,7 +16,7 @@ Apart from academics, I have a deep interest in literature, art, music, films an
 - Salinger,J.D. The heart of a broken story. *Esquire*. 1941
 
 If you don't want to read a long redundancy above, here is my favourite little poem written by Jorge Luis Borges.'
-<img src="assets/img/EVSLjjSX0AEUmWm.jpg" align="right" />
+
 
 What can I hold you with?
 
