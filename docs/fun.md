@@ -44,7 +44,7 @@ What can I hold you with?
   <div class="col-md-6">
   </div>
   <div class="col-md-6">
-    <img src="assets/img/JIA Zhaotong.jpg" alt="Home" width="37%">
+    <img src="assets/img/JIA Zhaotong.jpg" alt="Fun" width="37%">
   </div>
 </div>
   
