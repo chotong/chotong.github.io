@@ -15,7 +15,8 @@ Apart from academics, I have a deep interest in literature, art, music, films an
 - Joyce, James. *Dubliners*
 - Salinger,J.D. The heart of a broken story. *Esquire*. 1941
 
-If you don't want to read a long redundancy above, here is my favourite little poem written by Jorge Luis Borges.
+If you don't want to read a long redundancy above, here is my favourite little poem written by Jorge Luis Borges.'
+<img src="assets/img/EVSLjjSX0AEUmWm.jpg" align="right" />
 
 What can I hold you with?
 
