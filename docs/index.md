@@ -7,8 +7,9 @@ My name is Zhaotong Jia (贾朝彤 in Chinese), I am an undergraduate studying C
 
 - Philosophy of Language, Formal Semantics
 - Language Acquisition
-- Formal Syntax
+- Language Evolution and Simulation
 - Computational Modelling and Computational Linguistics
+- Information Theory in Linguistics 
 
 My research aims to model the human mind's language comprehension mechanisms; proposing a better syntactic-semantic interface and designing syntax/semantic parsers to support a range of deeper natural language understanding task.
 
